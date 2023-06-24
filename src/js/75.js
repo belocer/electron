@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[75],{5075:function(n,e,r){r.r(e),r.d(e,{default:function(){return u}});var t={name:"PrivacyPolicy",data:function(){return{}}},u=(0,r(1900).Z)(t,(function(){var n=this;return(0,n._self._c)("div",[n._v("\n    "+n._s(n.$t("general.privacy-policy"))+"\n")])}),[],!1,null,"484daf02",null).exports}}]);
+//# sourceMappingURL=75.js.map
